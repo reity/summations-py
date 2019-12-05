@@ -5,7 +5,7 @@ with open("README.rst", "r") as fh:
 
 setup(
     name="summations",
-    version="0.0.9.0",
+    version="0.0.9.1",
     packages=["summations",],
     install_requires=[],
     license="MIT",
